@@ -34,4 +34,29 @@ https://www.kaggle.com/datasets/oscarm524/forecasting-book-sales<br>
 9) Real / Fake Job Posting Prediction<br>
 https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction<br>
 
+# 1) Credit Card Fraud Detection
+
+
+# 2) FIFA 22 complete player dataset
+
+
+# 3) Walmart Recruiting - Store Sales
+
+
+# 4) Netflix Movies and TV Shows
+
+
+# 5) LinkedIn Data Analyst jobs listings
+
+
+# 6) Top 50 Fast-Food Chains
+
+
+# 7) Amazon and Best Buy Electronics
+
+
+# 8) Forecasting Book Sales
+
+
+# 9) Real / Fake Job Posting Prediction
 
