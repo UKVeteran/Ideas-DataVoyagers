@@ -22,7 +22,7 @@ https://www.kaggle.com/datasets/shivamb/netflix-shows/data<br>
 5) LinkedIn Data Analyst jobs listings<br>
 https://www.kaggle.com/datasets/cedricaubin/linkedin-data-analyst-jobs-listings<br>
 
-6) op 50 Fast-Food Chains in USA<br>
+6) Top 50 Fast-Food Chains in USA<br>
 https://www.kaggle.com/datasets/iamsouravbanerjee/top-50-fastfood-chains-in-usa<br>
 
 7) Amazon and Best Buy Electronics<br>
